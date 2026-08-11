@@ -7,10 +7,15 @@ This project analyzes patterns in external food purchases across days, weeks, an
 ## Tools
 
 - Google Sheets
+- Data Cleaning
+- Pivot Table
+- Graph Generation
 - Data Visualization
 
 ## Data Set
 - External food transactions from January 2, 2025 to August 4, 2026
+- 2025 includes full year data set (January - December)
+- 2026 includes a partial data set (January - July)
 
 ## Questions
 ### 2025 Purchasing Trends
@@ -35,14 +40,14 @@ I initially used all the available 2025 and 2026 transaction data in this analys
 
 ## Key Findings
 ### 2025 Purchase Trends
-1. The month of June saw the most purchasing activity in 2025
-2. Saturdays saw the most purchasing activity across days of the week
-3. Spending was highest during the fourth week of the month, while Week 2 showed the lowest activity. One possible explanation is that spending patterns may be influenced by the timing of the monthly food budget, although this analysis does not establish causation.
+1. **The month of June saw the most purchasing activity in 2025**
+2. **Saturdays saw the most purchasing activity across days of the week**
+3. **Spending was highest during the fourth week of the month, while Week 2 showed the lowest activity.** One possible explanation is that spending patterns may be influenced by the timing of the monthly food budget, although this analysis does not establish causation.
 ### 2025 to 2026 Comparison
-1. Taco Bell was the restaurant frequented the most in 2025. Panera was the restaurant frequented the most in 2026. Contextually, since this is my spending history, this coincides with joining Panera's Sip Club membership to receive free beverages and eating there more as a result. We also were gifted a Costco membership and moved our lower food tier spending from Taco Bell to the Costco Food Court.
+1. **Taco Bell was the restaurant frequented the most in 2025. Panera was the restaurant frequented the most in 2026.** For context, this coincides with joining Panera's Sip Club membership to receive free beverages and eating there more as a result. We also were gifted a Costco membership and moved our lower food tier spending from Taco Bell to the Costco Food Court.
 2. For both 2025 and 2026, spending consistently increased from January into March and then from April to June. Spending in 2026 is higher than spending in the same time period in 2025. 
 
 ## Recommendations
-- Monitor spending during the last week of the month and on weekends since these periods produced the highest rates of external food spending.  
+- Monitor spending during the last week of the month and on weekends since these periods produced the highest external food spending.  
 - Continue to use standardized restaurant names for efficient analysis moving forward.
 - Collect data for the rest of 2026 and recompare annual spending against 2025 for further conclusions. 
