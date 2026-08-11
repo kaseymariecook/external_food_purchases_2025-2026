@@ -27,6 +27,14 @@ When analyzing which restaurants had the most purchases, my initial results surp
 ### Partial Data
 I initially used all the available 2025 and 2026 transaction data in this analysis. I identified an issue after the initial analysis. 2026 only carried partial-year observations. There would be months with two years of complete data (January - July) and others without (August - December). This may skew the results and the analysis. Therefore, I altered my approach by splitting the analysis into two parts: trends over 2025 and a comparison of the (January - July) timeframe for both years.
 
+## Data Visualizations
+<img width="350" height="234" alt="chart" src="https://github.com/user-attachments/assets/e47f6323-3e2c-4797-b402-60877aac26b1" />
+<img width="350" height="216" alt="Number of Purchases vs  Week Number" src="https://github.com/user-attachments/assets/533b4950-4d49-40a0-905c-a1b2fa3478e9" />
+<img width="350" height="216" alt="Number of Purchases vs  Month 2025" src="https://github.com/user-attachments/assets/c0dff8e1-e919-4a2f-8d91-7d9db2e3ebe7" /><img width="350" height="216" alt="Amount Spent Per Day of the Week 2025" src="https://github.com/user-attachments/assets/9edf68fe-80d5-4365-9c50-ad6adfa0c0e5" />
+<img width="350" height="234" alt="chart (1)" src="https://github.com/user-attachments/assets/56b48804-90b8-4a1c-8ce5-7caa82371124" />
+
+
+
 ## Key Findings
 ### 2025 Purchase Trends
 1. The month of June saw the most purchasing activity in 2025
