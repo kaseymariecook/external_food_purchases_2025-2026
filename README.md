@@ -2,7 +2,7 @@
 
 ## Objective
 
-This analysis will evaluate whether there are patterns in Calendar periods over a day, week, and month that are associated with changes in food purchases, or any meals that exclude groceries.
+This project analyzes patterns in external food purchases across days, weeks, and months to identify changes in purchasing frequency and spending.
 
 ## Tools
 
@@ -13,14 +13,16 @@ This analysis will evaluate whether there are patterns in Calendar periods over 
 
 1. Which months saw the most purchases?
 2. Which days of the week showed the highest total spent?
-3. Which months had the highest amount spent on particular days of the week? 
+3. Does spending vary by week of the month?
 4. Is there a correlation between the timing of the month (weeks 1 through 4) and increased spending? 
 5. Which restaurants had the most purchases? 
 
 ## Key Findings
 
-[Your findings go here.]
+- June had the highest number of external food purchases.
+- Friday had the highest total spending of any weekday.
+- Average spending increased during the fourth week of the month.
 
 ## Recommendations
 
-[Your recommendations go here.]
+IN PROGRESS
