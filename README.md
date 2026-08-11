@@ -39,10 +39,10 @@ I initially used all the available 2025 and 2026 transaction data in this analys
 <img width="350" height="234" alt="chart (1)" src="https://github.com/user-attachments/assets/56b48804-90b8-4a1c-8ce5-7caa82371124" />
 
 ### 2025
-<img width="371" height="659" alt="Top Restaurants in 2025" src="https://github.com/user-attachments/assets/112dc105-828c-4664-ac57-8d35abd18530" />
+<img width="250" height="444" alt="Top Restaurants in 2025" src="https://github.com/user-attachments/assets/112dc105-828c-4664-ac57-8d35abd18530" />
 
 ### 2026
-<img width="371" height="659" alt="Top Restaurants in 2026" src="https://github.com/user-attachments/assets/24477952-4843-44f0-a51b-544858349423" />
+<img width="250" height="444" alt="Top Restaurants in 2026" src="https://github.com/user-attachments/assets/24477952-4843-44f0-a51b-544858349423" />
 
 
 ## Key Findings
