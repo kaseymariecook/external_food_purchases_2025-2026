@@ -31,7 +31,7 @@ I initially used all the available 2025 and 2026 transaction data in this analys
 ### 2025 Purchase Trends
 1. The month of June saw the most purchasing activity in 2025
 2. Saturdays saw the most purchasing activity across days of the week
-3. Spending does vary by week order in the month, with purchases being highest in the 4th week (end of the month). This is likely due to upcoming budget rollover to the next month and wanting to spend what's left of the category. Week 2 consistently shows the lowest activity. I believe this is due to falling excitement after going out to eat when the budget first rolls over to a new month.
+3. Spending was highest during the fourth week of the month, while Week 2 showed the lowest activity. One possible explanation is that spending patterns may be influenced by the timing of the monthly food budget, although this analysis does not establish causation.
 ### 2025 to 2026 Comparison
 1. Taco Bell was the restaurant frequented the most in 2025. Panera was the restaurant frequented the most in 2026. This is likely due to us joining Panera's Sip Club membership to receive free beverages and eating there more as a result. We also were gifted a Costco membership and moved our lower food tier spending from Taco Bell to the Costco Food Court.
 2.  
